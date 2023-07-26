@@ -1,2 +1,2 @@
 # arch-linux-with-calamares-test
-test
+discontinued project nothing to see here
